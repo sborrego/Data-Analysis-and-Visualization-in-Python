@@ -8,3 +8,10 @@ This workshop will introduce the powerful Python data visualization library Matp
 ***
 
 
+*** 
+
+## Additional Learning Resources
+
+* A helpful document with Python basics to reference: [DataCamp Python Basics Cheat Sheet](https://www.zillow.com/homedetails/22009-N-61st-Ave-Glendale-AZ-85310/121849988_zpid/) 
+
+
