@@ -34,7 +34,7 @@ Install JupyterLab by following the first set of instructions - [https://jupyter
 
 ***
 
-##  Additional Software Requirements
+##  Additional Software Requirements (for those NOT using Anaconda)
 
 We will be using the Python plotting package, Matplotlib. It must be installed on your computer using the command line using the command `pip`. 
 
