@@ -15,7 +15,7 @@ To start the software, you will also need to find the command line (aka terminal
 
 ### Recommended Installation - Anaconda
 
-Downloading Python and JupyterLab independently may often times run into issues that are tricky and time consuming to resolve. A simpler method of installing is to use the all-in-one installer Anaconda. It provides a user-friendly interface, allows easy access to Python packages, and is simple to install.
+Downloading Python and JupyterLab independently may often times run into issues that are tricky and time consuming to resolve. A simpler method of obtaining Python is to use the all-in-one installer Anaconda. It easy to install, provides a user-friendly interface, and allows easy access to Python packages.
 
 Download Anaconda - [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)  
 Addition Help with Anaconda - [HERE](http://swcarpentry.github.io/python-novice-gapminder/setup.html#installing-python-using-anaconda)
@@ -41,13 +41,13 @@ We will be using the Python plotting package, Matplotlib. It must be installed o
 ### Check that `pip` is installed correctly
 
 * Getting started with pip [instructions](https://pip.pypa.io/en/stable/getting-started/)
-    - You may need to use `python3` instead of `python` like the instructions indicate
-    - You may also need to use `pip3` instead of `pip`
-* If `pip` is on installed or working, try following these instructions [HERE](https://pip.pypa.io/en/stable/installation/)
+    - Note: You may need to use `python3` instead of `python` like the instructions indicate
+    - Note: You may also need to use `pip3` instead of `pip`
+* If `pip` is not installed or working, try following these instructions [HERE](https://pip.pypa.io/en/stable/installation/)
 
 ### Install Matplotlib
 
-* Installation instuctions for Matplotlib installation [HERE](https://matplotlib.org/stable/users/installing/index.html)
+* Installation instuctions for Matplotlib installation on the command line [HERE](https://matplotlib.org/stable/users/installing/index.html)
 
 *** 
 
