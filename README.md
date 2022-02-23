@@ -13,7 +13,7 @@ We will program in Python using JupyterLab, a programming environment that runs 
 
 To start the software, you will also need to find the command line (aka terminal, shell) on your system. If you are not familiar with the command line on your system, you can find help [HERE](https://swcarpentry.github.io/shell-novice/setup.html#where-to-type-commands-how-to-open-a-new-shell).
 
-### <u>Recommended Installation - Anaconda</u>
+### Recommended Installation - Anaconda
 
 Downloading Python and JupyterLab independently may often times run into issues that are tricky and time consuming to resolve. A simpler method of installing is to use the all-in-one installer Anaconda. It provides a user-friendly interface, allows easy access to Python packages, and is simple to install.
 
@@ -34,14 +34,25 @@ Install JupyterLab by following the first set of instructions - [https://jupyter
 
 ***
 
-#### Resources
+##  Additional Software Requirements
 
-* [Matplotlib documentation](https://matplotlib.org/stable/index.html)
+We will be using the Python plotting package, Matplotlib. It must be installed on your computer using the command line using the command `pip`. 
+
+### Check that `pip` is installed correctly
+
+* Getting started with pip [instructions](https://pip.pypa.io/en/stable/getting-started/)
+    - You may need to use `python3` instead of `python` like the instructions indicate
+    - You may also need to use `pip3` instead of `pip`
+* If `pip` is on installed or working, try following these instructions [HERE](https://pip.pypa.io/en/stable/installation/)
+
+### Install Matplotlib
+
+* Installation instuctions for Matplotlib installation [HERE](https://matplotlib.org/stable/users/installing/index.html)
 
 *** 
 
-#### Additional Learning Resources
+## Additional Learning Resources
 
-* A helpful document with Python basics to reference: [DataCamp Python Basics Cheat Sheet](https://www.zillow.com/homedetails/22009-N-61st-Ave-Glendale-AZ-85310/121849988_zpid/) 
-
-
+* A helpful document with Python basics to reference: [DataCamp Python Basics Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2) 
+* [Matplotlib documentation](https://matplotlib.org/stable/index.html)
+* Colors in Matplotlib - [Named Colors](https://matplotlib.org/stable/gallery/color/named_colors.html#)
