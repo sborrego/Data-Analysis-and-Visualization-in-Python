@@ -40,13 +40,16 @@ We will be using the Python plotting package, Matplotlib. It must be installed o
 
 ### Check that `pip` is installed correctly
 
-* Getting started with pip [instructions](https://pip.pypa.io/en/stable/getting-started/)
+* Getting started with `pip` [instructions](https://pip.pypa.io/en/stable/getting-started/)
     - Note: You may need to use `python3` instead of `python` like the instructions indicate
     - Note: You may also need to use `pip3` instead of `pip`
 * If `pip` is not installed or working, try following these instructions [HERE](https://pip.pypa.io/en/stable/installation/)
 
 ### Install Matplotlib
 
+* On command line, type:
+    + `python -m pip install -U pip`
+    + `python -m pip install -U matplotlib`
 * Installation instuctions for Matplotlib installation on the command line [HERE](https://matplotlib.org/stable/users/installing/index.html)
 
 *** 
