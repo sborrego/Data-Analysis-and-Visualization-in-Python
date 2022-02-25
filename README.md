@@ -59,3 +59,5 @@ We will be using the Python plotting package, Matplotlib. It must be installed o
 * A helpful document with Python basics to reference: [DataCamp Python Basics Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2) 
 * [Matplotlib documentation](https://matplotlib.org/stable/index.html)
 * Colors in Matplotlib - [Named Colors](https://matplotlib.org/stable/gallery/color/named_colors.html#)
+* Style guide for python code - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+* The Zen of Python - [PEP 20](https://www.python.org/dev/peps/pep-0020/)
