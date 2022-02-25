@@ -12,7 +12,7 @@ This workshop will introduce the powerful Python data visualization library Matp
 We will be using real data taken from the Gapminder dataset. Please download and unzip the file [python-novice-gapminder-data.zip](http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip) and place the unzipped folder named **data** on your desktop.
 
 <a href="http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip" download>
-"python-novice-gapminder-data.zip"
+python-novice-gapminder-data.zip
 </a>
 
 ***
