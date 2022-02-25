@@ -48,9 +48,15 @@ We will be using the Python plotting package, Matplotlib. It must be installed o
 ### Install Matplotlib
 
 * On command line, type:
-    + `python -m pip install -U pip`
-    + `python -m pip install -U matplotlib`
+    - `python -m pip install -U pip`
+    - `python -m pip install -U matplotlib`
 * Installation instuctions for Matplotlib installation on the command line [HERE](https://matplotlib.org/stable/users/installing/index.html)
+
+### Install Pandas
+
+* On command line, type:
+   - `pip install pandas`
+* Installation instructions for Pandas [HERE](https://pandas.pydata.org/docs/getting_started/install.html)
 
 *** 
 
