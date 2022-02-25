@@ -5,10 +5,15 @@ Wednesday, March 2nd, 2022
 
 This workshop will introduce the powerful Python data visualization library Matplotlib. We will create visualizations for different kinds of data and explore how to customize and share these visualizations. This  is a follow-up workshop to the *Introduction to Python* workshop, you can find the material [HERE](https://github.com/sborrego/Introduction-to-Python/blob/main/Introduction%20to%20Python.ipynb).
 
+
 ***
 ## Data Download
 
 We will be using real data taken from the Gapminder dataset. Please download and unzip the file [python-novice-gapminder-data.zip](http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip) and place the unzipped folder named **data** on your desktop.
+
+<a href="http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip" download>
+"python-novice-gapminder-data.zip"
+</a>
 
 ***
 
