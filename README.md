@@ -27,7 +27,11 @@ Downloading Python and JupyterLab independently may often times run into issues 
 Download Anaconda - [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)  
 Addition Help with Anaconda - [HERE](http://swcarpentry.github.io/python-novice-gapminder/setup.html#installing-python-using-anaconda)
 
-If you are familiar with your command line and prefer to install Python and JupyterLab individually, you can find the links and installation instructions on the software websites below.
+***
+
+## Advanced User Software Installation
+
+For **advanced users** that are familiar with the command line and prefer to install Python and JupyterLab individually, you can find the links and installation instructions on the software websites linked below.
 
 ### Python
 
