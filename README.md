@@ -57,7 +57,13 @@ We will be using the Python plotting package, Matplotlib. It must be installed o
 * On command line, type:
     - `python -m pip install -U pip`
     - `python -m pip install -U matplotlib`
-* Installation instuctions for Matplotlib installation on the command line [HERE](https://matplotlib.org/stable/users/installing/index.html)
+* Installation instuctions for Matplotlib - [HERE](https://matplotlib.org/stable/users/installing/index.html)
+
+### Install Numpy
+
+* On command line, type:
+    - `pip install numpy`
+* Installation instructions for Numpy - [HERE](https://numpy.org/install/)
 
 ### Install Pandas
 
