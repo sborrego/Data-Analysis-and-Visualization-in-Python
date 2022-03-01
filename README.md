@@ -5,15 +5,12 @@ Wednesday, March 2nd, 2022
 
 This workshop will introduce the powerful Python data visualization library Matplotlib. We will create visualizations for different kinds of data and explore how to customize and share these visualizations. This  is a follow-up workshop to the *Introduction to Python* workshop, you can find the material [HERE](https://github.com/sborrego/Introduction-to-Python/blob/main/Introduction%20to%20Python.ipynb).
 
-
 ***
+
 ## Data Download
 
-We will be using real data taken from the Gapminder dataset. Please download and unzip the file [python-novice-gapminder-data.zip](http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip) and place the unzipped folder named **data** on your desktop.
-
-<a href="https://github.com/sborrego/Data-Visualization-in-Python/blob/main/python-novice-gapminder-data.zip" download>
-gapminder_data
-</a>
+We will be using real data taken from the Gapminder dataset. To download the data, click 
+<a href="https://github.com/sborrego/Data-Visualization-in-Python/blob/main/gapminder-data.zip" download> HERE </a> to go to the file webpage. Click on the `download` button, unzip the file, and place the unzipped folder named **data** on your desktop.
 
 ***
 
@@ -30,7 +27,11 @@ Downloading Python and JupyterLab independently may often times run into issues 
 Download Anaconda - [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)  
 Addition Help with Anaconda - [HERE](http://swcarpentry.github.io/python-novice-gapminder/setup.html#installing-python-using-anaconda)
 
-If you are familiar with your command line and prefer to install Python and JupyterLab individually, you can find the links and installation instructions on the software websites below.
+***
+
+## Advanced User Software Installation
+
+For **advanced users** that are familiar with the command line and prefer to install Python and JupyterLab individually, you can find the links and installation instructions on the software websites linked below.
 
 ### Python
 
@@ -60,7 +61,13 @@ We will be using the Python plotting package, Matplotlib. It must be installed o
 * On command line, type:
     - `python -m pip install -U pip`
     - `python -m pip install -U matplotlib`
-* Installation instuctions for Matplotlib installation on the command line [HERE](https://matplotlib.org/stable/users/installing/index.html)
+* Installation instuctions for Matplotlib - [HERE](https://matplotlib.org/stable/users/installing/index.html)
+
+### Install Numpy
+
+* On command line, type:
+    - `pip install numpy`
+* Installation instructions for Numpy - [HERE](https://numpy.org/install/)
 
 ### Install Pandas
 
@@ -72,6 +79,7 @@ We will be using the Python plotting package, Matplotlib. It must be installed o
 
 ## Additional Learning Resources
 
+* [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide) - Official Python with extensive resources
 * A helpful document with Python basics to reference: [DataCamp Python Basics Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2) 
 * [Matplotlib documentation](https://matplotlib.org/stable/index.html)
 * Colors in Matplotlib - [Named Colors](https://matplotlib.org/stable/gallery/color/named_colors.html#)
