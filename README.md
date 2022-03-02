@@ -85,3 +85,6 @@ We will be using the Python plotting package, Matplotlib. It must be installed o
 * Colors in Matplotlib - [Named Colors](https://matplotlib.org/stable/gallery/color/named_colors.html#)
 * Style guide for python code - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 * The Zen of Python - [PEP 20](https://www.python.org/dev/peps/pep-0020/)
+* [The Carpentries](https://carpentries.org/)
+    + [Programming in Python](https://swcarpentry.github.io/python-novice-inflammation/)
+    + [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
