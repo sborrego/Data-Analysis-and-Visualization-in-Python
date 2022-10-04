@@ -1,4 +1,4 @@
-# Data Visualization in Python
+# Data Analysis and Visualization in Python
 University of South Florida workshop   
 Thursday, October 6th, 2022  
 9:00 - 10:30 am EST  
