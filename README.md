@@ -1,9 +1,9 @@
 # Data Analysis and Visualization in Python
 University of South Florida workshop   
-Thursday, October 6th, 2022  
+Monday, March 27th, 2023  
 9:00 - 10:30 am EST  
 
-This workshop will introduce the powerful Python data visualization library Matplotlib. We will create visualizations for different kinds of data and explore how to customize and share these visualizations. This  is a follow-up workshop to the *Introduction to Python* workshop, you can find the material [HERE](https://github.com/sborrego/Introduction-to-Python/blob/main/Introduction%20to%20Python.ipynb).
+This workshop will introduce the basics of the powerful Python data visualization library Matplotlib. We will create simple visualizations for different types of data and explore how to customize and share these visualizations. This is a follow-up workshop to the *Introduction to Python* workshop, you can find the material [HERE](https://github.com/sborrego/Introduction-to-Python/blob/main/Introduction%20to%20Python.ipynb).
 
 ***
 
