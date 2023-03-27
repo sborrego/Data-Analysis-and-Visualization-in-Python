@@ -83,6 +83,7 @@ We will be using the Python plotting package, Matplotlib. It must be installed o
 
 * [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide) - Official Python with extensive resources
 * A helpful document with Python basics to reference: [DataCamp Python Basics Cheat Sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet) 
+* A tutorial demonstrating how to use Matplotlib with real data: [DataCamp Introduction to Plotting with Matplotlib in Python](https://www.datacamp.com/tutorial/matplotlib-tutorial-python)  
 * [Matplotlib documentation](https://matplotlib.org/stable/index.html)
 * Colors in Matplotlib - [Named Colors](https://matplotlib.org/stable/gallery/color/named_colors.html#)
 * Style guide for python code - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
