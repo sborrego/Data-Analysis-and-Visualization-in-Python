@@ -1,6 +1,6 @@
 # Data Analysis and Visualization in Python
 University of South Florida workshop   
-Monday, March 27th, 2023  
+Tuesday, February 27th, 2024  
 9:00 - 10:30 am EST  
 
 This workshop will introduce the basics of the powerful Python data visualization library Matplotlib. We will create simple visualizations for different types of data and explore how to customize and share these visualizations. This is a follow-up workshop to the *Python Programming: An Introduction* workshop, you can find the material [HERE](https://github.com/sborrego/Introduction-to-Python/blob/main/Introduction%20to%20Python.ipynb).
@@ -27,7 +27,7 @@ To start the software, you will need to use your terminal to open a notebook. In
 Downloading Python and JupyterLab independently may often times run into issues that are tricky and time consuming to resolve. A simpler method of obtaining Python is to use the all-in-one installer Anaconda. It easy to install, provides a user-friendly interface, and allows easy access to Python packages.
 
 Download Anaconda - [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)  
-Addition Help with Anaconda - [HERE](http://swcarpentry.github.io/python-novice-gapminder/setup.html#installing-python-using-anaconda)
+Addition Help with Anaconda - [HERE](https://carpentries.github.io/workshop-template/install_instructions/#python)
 
 ***
 
